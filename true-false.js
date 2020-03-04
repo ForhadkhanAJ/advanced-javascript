@@ -1,4 +1,16 @@
 //15.2 TRUTHY AND FALSY VALUES
+//1. Truthy values
+// "0"
+// " "
+//[]
+//{}
+//........................
+// 2. Falsy values
+// 0
+// ""
+// undefined
+// null
+// NaN
 // //1(A)
 // const age = 4;
 
@@ -153,18 +165,6 @@
 //     console.log("Condition is false");
 // }
 
-//1. Truthy values
-// "0"
-// " "
-//[]
-//{}
-//........................
-// 2. Falsy values
-// 0
-// ""
-// undefined
-// null
-// NaN
 
 // //3(F)
 // let name = [];
