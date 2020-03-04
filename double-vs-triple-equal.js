@@ -10,7 +10,7 @@
 //     console.log("Condition is false");
 // }
 
-// //1(A)
+// //1(B)
 // const first = 2;
 
 // const second = 2;
@@ -21,7 +21,7 @@
 //     console.log("Condition is false");
 // }
 
-// //1(A)
+// //1(C)
 // const first = 2;
 
 // const second = "2";
@@ -32,7 +32,7 @@
 //     console.log("Condition is false");
 // }
 
-// //1(A)
+// //1(D)
 // const first = 2;
 
 // const second = "2";
@@ -43,7 +43,7 @@
 //     console.log("Condition is false");
 // }
 
-// //1(A)
+// //1(E)
 // const first = 2;
 
 // const second = true;
@@ -54,7 +54,7 @@
 //     console.log("Condition is false");
 // }
 
-// //1(A)
+// //1(F)
 // const first = 1;
 
 // const second = true;
@@ -65,7 +65,7 @@
 //     console.log("Condition is false");
 // }
 
-// //1(A)
+// //1(G)
 // const first = 1;
 
 // const second = false;
@@ -76,7 +76,7 @@
 //     console.log("Condition is false");
 // }
 
-// //1(A)
+// //1(H)
 // const first = 0;
 
 // const second = false;
@@ -87,13 +87,22 @@
 //     console.log("Condition is false");
 // }
 
-//1(A)
-const first = 0;
+//1(I)
+// const first = 0;
 
-const second = false;
-if(first === second){
-    console.log("Condition is true");
+// const second = false;
+// if(first === second){
+//     console.log("Condition is true");
+// }
+// else{
+//     console.log("Condition is false");
+// }
+
+//1(J)
+if ('2' === 2){
+    console.log("inside if");
+
 }
 else{
-    console.log("Condition is false");
+    console.log("inside else");
 }
